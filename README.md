@@ -1,6 +1,6 @@
-# 自学笔记:   英语
+# 自学笔记:   视频编辑课
 
-分享下美国Udemy 上评价还不错的英语课
+分享下美国Udemy 上评价还不错的视频编辑课
 
 **[Premiere Pro CC for Beginners: Video Editing in Premiere](https://github.com/sweet-melone/video/wiki/pr-for-Beginners)** <br/>
 [Udemy 自学课]  零基础学Pr， 努力成为优秀Up 主 <br/>
