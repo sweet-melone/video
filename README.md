@@ -1,6 +1,6 @@
 # 自学笔记:   视频编辑
 
- ================ 分享下美国Udemy 上评价还不错的视频 - 视频编辑工具 =====================
+** ================ 分享下美国Udemy 上评价还不错的视频 - 视频编辑工具 =====================**
 
 **[Premiere Pro CC for Beginners: Video Editing in Premiere](https://github.com/sweet-melone/video/wiki/pr-for-Beginners)** <br/>
 [自学视频编辑Pr]  Udemy 自学视频 -- 零基础学Pr， 努力成为优秀Up 主
